@@ -1,0 +1,20 @@
+{
+  "easy": "Facile",
+  "medium": "Moyen",
+  "hard": "Difficile",
+  "start": "Commencer",
+  "draw": "Égalité !",
+  "playerWins": "Le joueur {player} gagne !",
+  "connectNToWin": "Connectez-en {n} pour gagner",
+  "difficulty": "Difficulté",
+  "reset": "Réinitialiser",
+  "home": "Menu",
+  "opponent": "Adversaire",
+  "player": "Joueur",
+  "bot": "Bot",
+  "mode": "Mode",
+  "normalMode": "Normal",
+  "blitz": "Blitz",
+  "you": "Toi",
+  "friend": "Ami"
+}
